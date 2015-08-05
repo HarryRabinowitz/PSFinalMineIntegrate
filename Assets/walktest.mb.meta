@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 7958f1d5c6a98486d8e9c55b43ff562f
+timeCreated: 1438663359
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Character1_Reference
+    100002: group
+    100004: ikHandle1
+    100006: ikHandle2
+    100008: joint1
+    100010: joint2
+    100012: joint3
+    100014: joint4
+    100016: joint5
+    100018: joint6
+    100020: pasted__pCube5
+    100022: pCube1
+    100024: pCube2
+    100026: pCube3
+    100028: pCube4
+    100030: pCube5
+    100032: pCube6
+    100034: polySurface1
+    100036: polySurface2
+    100038: polySurface3
+    100040: polySurface4
+    100042: polySurface5
+    100044: polySurface6
+    100046: transform1
+    100048: transform2
+    100050: transform3
+    100052: transform4
+    100054: transform5
+    100056: transform6
+    100058: transform7
+    100060: //RootNode
+    100062: walktest_Head
+    100064: walktest_Hips
+    100066: walktest_LeftArm
+    100068: walktest_LeftArmRoll
+    100070: walktest_LeftFoot
+    100072: walktest_LeftForeArm
+    100074: walktest_LeftHand
+    100076: walktest_LeftLeg
+    100078: walktest_LeftShoulder
+    100080: walktest_LeftToeBase
+    100082: walktest_LeftUpLeg
+    100084: walktest_LeftUpLegRoll
+    100086: walktest_Neck
+    100088: walktest_RightArm
+    100090: walktest_RightArmRoll
+    100092: walktest_RightFoot
+    100094: walktest_RightForeArm
+    100096: walktest_RightHand
+    100098: walktest_RightLeg
+    100100: walktest_RightShoulder
+    100102: walktest_RightToeBase
+    100104: walktest_RightUpLeg
+    100106: walktest_RightUpLegRoll
+    100108: walktest_Spine
+    100110: walktest_Spine1
+    100112: walktest_Spine2
+    400000: Character1_Reference
+    400002: group
+    400004: ikHandle1
+    400006: ikHandle2
+    400008: joint1
+    400010: joint2
+    400012: joint3
+    400014: joint4
+    400016: joint5
+    400018: joint6
+    400020: pasted__pCube5
+    400022: pCube1
+    400024: pCube2
+    400026: pCube3
+    400028: pCube4
+    400030: pCube5
+    400032: pCube6
+    400034: polySurface1
+    400036: polySurface2
+    400038: polySurface3
+    400040: polySurface4
+    400042: polySurface5
+    400044: polySurface6
+    400046: transform1
+    400048: transform2
+    400050: transform3
+    400052: transform4
+    400054: transform5
+    400056: transform6
+    400058: transform7
+    400060: //RootNode
+    400062: walktest_Head
+    400064: walktest_Hips
+    400066: walktest_LeftArm
+    400068: walktest_LeftArmRoll
+    400070: walktest_LeftFoot
+    400072: walktest_LeftForeArm
+    400074: walktest_LeftHand
+    400076: walktest_LeftLeg
+    400078: walktest_LeftShoulder
+    400080: walktest_LeftToeBase
+    400082: walktest_LeftUpLeg
+    400084: walktest_LeftUpLegRoll
+    400086: walktest_Neck
+    400088: walktest_RightArm
+    400090: walktest_RightArmRoll
+    400092: walktest_RightFoot
+    400094: walktest_RightForeArm
+    400096: walktest_RightHand
+    400098: walktest_RightLeg
+    400100: walktest_RightShoulder
+    400102: walktest_RightToeBase
+    400104: walktest_RightUpLeg
+    400106: walktest_RightUpLegRoll
+    400108: walktest_Spine
+    400110: walktest_Spine1
+    400112: walktest_Spine2
+    2300000: polySurface1
+    2300002: polySurface2
+    2300004: polySurface3
+    2300006: polySurface4
+    2300008: polySurface5
+    2300010: polySurface6
+    3300000: polySurface1
+    3300002: polySurface2
+    3300004: polySurface3
+    3300006: polySurface4
+    3300008: polySurface5
+    3300010: polySurface6
+    4300000: polySurface1
+    4300002: polySurface2
+    4300004: polySurface3
+    4300006: polySurface4
+    4300008: polySurface6
+    4300010: polySurface5
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1_Reference
+        weight: 1
+      - path: Character1_Reference/walktest_Hips
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_LeftUpLeg
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_LeftUpLeg/walktest_LeftUpLegRoll
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_LeftUpLeg/walktest_LeftUpLegRoll/walktest_LeftLeg
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_LeftUpLeg/walktest_LeftUpLegRoll/walktest_LeftLeg/walktest_LeftFoot
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_LeftUpLeg/walktest_LeftUpLegRoll/walktest_LeftLeg/walktest_LeftFoot/walktest_LeftToeBase
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_RightUpLeg
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_RightUpLeg/walktest_RightUpLegRoll
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_RightUpLeg/walktest_RightUpLegRoll/walktest_RightLeg
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_RightUpLeg/walktest_RightUpLegRoll/walktest_RightLeg/walktest_RightFoot
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_RightUpLeg/walktest_RightUpLegRoll/walktest_RightLeg/walktest_RightFoot/walktest_RightToeBase
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_LeftShoulder
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_LeftShoulder/walktest_LeftArm
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_LeftShoulder/walktest_LeftArm/walktest_LeftArmRoll
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_LeftShoulder/walktest_LeftArm/walktest_LeftArmRoll/walktest_LeftForeArm
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_LeftShoulder/walktest_LeftArm/walktest_LeftArmRoll/walktest_LeftForeArm/walktest_LeftHand
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_Neck
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_Neck/walktest_Head
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_RightShoulder
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_RightShoulder/walktest_RightArm
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_RightShoulder/walktest_RightArm/walktest_RightArmRoll
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_RightShoulder/walktest_RightArm/walktest_RightArmRoll/walktest_RightForeArm
+        weight: 1
+      - path: Character1_Reference/walktest_Hips/walktest_Spine/walktest_Spine1/walktest_Spine2/walktest_RightShoulder/walktest_RightArm/walktest_RightArmRoll/walktest_RightForeArm/walktest_RightHand
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__pCube5
+        weight: 1
+      - path: group/pasted__pCube5/transform1
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/polySurface6
+        weight: 1
+      - path: joint4
+        weight: 1
+      - path: joint4/joint5
+        weight: 1
+      - path: joint4/joint5/joint6
+        weight: 1
+      - path: joint4/polySurface5
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1/transform6
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform5
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube3/transform4
+        weight: 1
+      - path: pCube4
+        weight: 1
+      - path: pCube4/transform3
+        weight: 1
+      - path: pCube5
+        weight: 1
+      - path: pCube5/transform2
+        weight: 1
+      - path: pCube6
+        weight: 1
+      - path: pCube6/polySurface1
+        weight: 1
+      - path: pCube6/polySurface2
+        weight: 1
+      - path: pCube6/polySurface3
+        weight: 1
+      - path: pCube6/polySurface4
+        weight: 1
+      - path: pCube6/transform7
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
